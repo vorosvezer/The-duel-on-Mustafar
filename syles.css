@@ -1,0 +1,8 @@
+.quizz-body {
+    /* margin: 5%, 13%; */
+    margin: 5% 3%;
+    padding: 3% 5%;
+    /* padding-top: 3%; */
+    background-color: lightgreen;
+    color: darkgreen;
+}
