@@ -5,6 +5,7 @@
     /* padding-top: 3%; */
     background-color: #20262E;
     color: #BFACE2;
+    /* color: #7851a9; */
     border-radius: 25px;
 }
 
@@ -20,4 +21,8 @@ body {
 
 h3 {
     padding-top: 3%;
+}
+
+.footer {
+    text-align: center;
 }
