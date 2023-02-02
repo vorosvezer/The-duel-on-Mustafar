@@ -10,3 +10,11 @@
 .center {
     text-align: center;
 }
+
+body {
+    background-color: #645CBB;
+}
+
+h3 {
+    padding-top: 3%;
+}
